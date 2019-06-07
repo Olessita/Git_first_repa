@@ -1,2 +1,3 @@
 print("Hello World!");
-print(hello my deear friend)
+print(hello my deear friend);
+print("glad to see you");
